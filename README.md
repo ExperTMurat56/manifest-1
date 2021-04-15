@@ -9,7 +9,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Evolution5-X/manifest -b ten
+repo init -u https://github.com/ExperTMurat56/manifest_evo -b ten_new
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
